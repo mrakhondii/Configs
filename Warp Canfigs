@@ -1,2 +1,2 @@
-warp://[2606:4700:d0::1abe:ecb4:b59c:ec61]:1843?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#SimCard&&detour=warp://@162.159.192.151:1070?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Wifi
-warp://162.159.192.151:1070?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Wifi&&detour=warp://[2606:4700:d0::1abe:ecb4:b59c:ec61]:1843?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#SimCard
+warp://59ko6K1F-341JdX6V-3WHa2L10@[2606:4700:d0::1abe:ecb4:b59c:ec61]:1843?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#4G
+warp://162.159.192.151:1070?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Wifi
