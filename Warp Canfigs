@@ -4,3 +4,4 @@
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
 warp://p1@[2606:4700:d0::1abe:ecb4:b59c:ec61]:1843?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#SimCard&&detour=warp://p2@162.159.192.151:1070?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Wifi
+warp://p1@162.159.192.151:1070?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Wifi&&detour=warp://p2@[2606:4700:d0::1abe:ecb4:b59c:ec61]:1843?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#SimCard
